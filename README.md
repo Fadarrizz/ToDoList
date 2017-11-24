@@ -12,3 +12,7 @@ Save your important to-do items and always have them with you.
 - Items can be deleted with a long press
 
 ## Screenshot
+https://github.com/Fadarrizz/ToDoList/blob/master/doc/Screenshot_20171124-124006.png
+
+## Better Code Hub
+[![BCH compliance](https://bettercodehub.com/edge/badge/Fadarrizz/ToDoList?branch=master)](https://bettercodehub.com/)
